@@ -1,0 +1,257 @@
+ [
+      {
+        "product_id": 1,
+        "product_title": "Dell Inspiron 15 Laptop",
+        "product_image": "https://i.ibb.co.com/p1RX5N3/Dell-Inspiron-15-3520-Intel-Core-i3-1215-U-8-GB-RAM-512-GB-SSD-15-6-Inch-FHD-Display-Laptop.jpg",
+        "category": "Laptop",
+        "price": 650.00,
+        "description": "Dell Inspiron 15 with 11th Gen Intel Core i5, 8GB RAM, and 256GB SSD.",
+        "Specification": [
+          "11th Gen Intel Core i5",
+          "8GB RAM",
+          "256GB SSD",
+          "15.6-inch Full HD display",
+          "Windows 10 Home"
+        ],
+        "availability": true,
+        "rating": 4.3
+      },
+      {
+        "product_id": 2,
+        "product_title": "Apple iPhone 14",
+        "product_image": "https://i.ibb.co.com/B4HBbqj/Apple-i-Phone-14.jpg",
+        "category": "Phone",
+        "price": 999.00,
+        "description": "Apple iPhone 14 with 6.1-inch Super Retina XDR display and A15 Bionic chip.",
+        "Specification": [
+          "6.1-inch Super Retina XDR display",
+          "A15 Bionic chip",
+          "128GB storage",
+          "Dual-camera system",
+          "Face ID"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 3,
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co.com/LSjqCCq/Samsung-Galaxy-Watch-5.jpg",
+        "category": "Smartwatch",
+        "price": 299.00,
+        "description": "Samsung Galaxy Watch 5 with health monitoring and fitness tracking features.",
+        "Specification": [
+          "1.4-inch AMOLED display",
+          "Heart rate and SpO2 monitoring",
+          "GPS",
+          "Water resistant up to 50 meters",
+          "Battery life up to 2 days"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 4,
+        "product_title": "MacBook Air M1",
+        "product_image": "https://i.ibb.co.com/4RqdqKF/Mac-Book-Air-M1.jpg",
+        "category": "Laptop",
+        "price": 999.00,
+        "description": "Apple MacBook Air with M1 chip, 8GB RAM, and 256GB SSD.",
+        "Specification": [
+          "Apple M1 chip",
+          "8GB RAM",
+          "256GB SSD",
+          "13.3-inch Retina display",
+          "macOS"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 5,
+        "product_title": "Anker PowerCore 10000 Portable Charger",
+        "product_image": "https://i.ibb.co.com/q9HqJdM/Anker-Power-Core-10000-PD-Redux-Portable-Power-Bank-22-5-W-3717.jpg",
+        "category": "Accessories",
+        "price": 25.99,
+        "description": "Anker PowerCore 10000mAh compact portable charger with high-speed charging.",
+        "Specification": [
+          "10000mAh battery capacity",
+          "PowerIQ high-speed charging",
+          "Compact and lightweight design",
+          "Micro USB input",
+          "LED indicator"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 6,
+        "product_title": "Samsung Galaxy S22 Ultra",
+        "product_image": "https://i.ibb.co.com/5GV82Cp/Samsung-Galaxy-S22-Ultra.jpg",
+        "category": "Phone",
+        "price": 1199.00,
+        "description": "Samsung Galaxy S22 Ultra with 108MP camera, 12GB RAM, and 5000mAh battery.",
+        "Specification": [
+          "6.8-inch QHD+ AMOLED display",
+          "108MP main camera",
+          "12GB RAM",
+          "5000mAh battery",
+          "S Pen support"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 7,
+        "product_title": "Fitbit Versa 3",
+        "product_image": "https://i.ibb.co.com/pPvkGQq/Fitbit-Versa-3-Smart-Watch-Thistle-9004.jpg",
+        "category": "Smartwatch",
+        "price": 229.95,
+        "description": "Fitbit Versa 3 with GPS, heart rate monitor, and Alexa built-in.",
+        "Specification": [
+          "Built-in GPS",
+          "Heart rate monitor",
+          "Alexa and Google Assistant support",
+          "Sleep tracking",
+          "6+ days battery life"
+        ],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": 8,
+        "product_title": "Apple MacBook Pro 16-inch",
+        "product_image": "https://i.ibb.co.com/4pXv2pp/Apple-Mac-Book-Pro-16-featured.webp",
+        "category": "Laptop",
+        "price": 2499.00,
+        "description": "MacBook Pro 16-inch with M1 Pro chip, 16GB RAM, and 512GB SSD.",
+        "Specification": [
+          "Apple M1 Pro chip",
+          "16GB RAM",
+          "512GB SSD",
+          "16-inch Retina display",
+          "macOS"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": 9,
+        "product_title": "Sony WH-1000XM4 Wireless Headphones",
+        "product_image": "https://i.ibb.co.com/qsdM9gF/Sony-WH-1000-XM4-Wireless-Headphones.jpg",
+        "category": "Accessories",
+        "price": 349.99,
+        "description": "Sony WH-1000XM4 wireless noise-canceling headphones with 30-hour battery life.",
+        "Specification": [
+          "Wireless Bluetooth connectivity",
+          "Noise canceling",
+          "30-hour battery life",
+          "Touch controls",
+          "Voice assistant support"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 10,
+        "product_title": "HP Pavilion x360 Convertible Laptop",
+        "product_image": "https://i.ibb.co.com/kQKPjKH/HP-Pavilion-x360-Convertible-Laptop.jpg",
+        "category": "Laptop",
+        "price": 699.99,
+        "description": "HP Pavilion x360 with 14-inch touchscreen, Intel Core i5, and 8GB RAM.",
+        "Specification": [
+          "Intel Core i5 processor",
+          "8GB RAM",
+          "256GB SSD",
+          "14-inch Full HD touchscreen",
+          "Windows 10"
+        ],
+        "availability": false,
+        "rating": 4.2
+      },
+      {
+        "product_id": 11,
+        "product_title": "Garmin Forerunner 245 Music",
+        "product_image": "https://i.ibb.co.com/VWWnnPX/Garmin-Forerunner-245-Music.jpg",
+        "category": "Smartwatch",
+        "price": 299.99,
+        "description": "Garmin Forerunner 245 Music with GPS, heart rate monitoring, and music storage.",
+        "Specification": [
+          "GPS and GLONASS",
+          "Heart rate monitor",
+          "Music storage for up to 500 songs",
+          "Advanced running dynamics",
+          "Water-resistant up to 50m"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 12,
+        "product_title": "Google Pixel 6 Pro",
+        "product_image": "https://i.ibb.co.com/FqkHr3s/Google-Pixel-6-Pro.jpg",
+        "category": "Phone",
+        "price": 899.00,
+        "description": "Google Pixel 6 Pro with 6.7-inch QHD+ display and Google Tensor chip.",
+        "Specification": [
+          "6.7-inch QHD+ OLED display",
+          "Google Tensor processor",
+          "12GB RAM",
+          "Triple rear camera",
+          "Android 12"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 13,
+        "product_title": "Apple iPad Air (4th Generation)",
+        "product_image": "https://i.ibb.co.com/56fr5Yg/Apple-i-Pad-Air-4th-Generation.jpg",
+        "category": "Tablet",
+        "price": 599.00,
+        "description": "Apple iPad Air with A14 Bionic chip, 10.9-inch Liquid Retina display, and Apple Pencil support.",
+        "Specification": [
+          "10.9-inch Liquid Retina display",
+          "A14 Bionic chip",
+          "64GB storage",
+          "Apple Pencil and Magic Keyboard support",
+          "Touch ID"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 14,
+        "product_title": "Jabra Elite 85t True Wireless Earbuds",
+        "product_image": "https://i.ibb.co.com/LxPFJgb/Jabra-Elite-85t-True-Wireless-Earbuds.jpg",
+        "category": "Accessories",
+        "price": 229.99,
+        "description": "Jabra Elite 85t noise-canceling true wireless earbuds with 5.5 hours battery life.",
+        "Specification": [
+          "Active noise canceling",
+          "5.5 hours battery life",
+          "Wireless charging",
+          "IPX4 water resistance",
+          "Bluetooth 5.1"
+        ],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": 15,
+        "product_title": "Microsoft Surface Laptop Go",
+        "product_image": "https://i.ibb.co.com/HB3pTRC/download-1.jpg",
+        "category": "Laptop",
+        "price": 549.00,
+        "description": "Microsoft Surface Laptop Go with 12.4-inch touchscreen, Intel Core i5, and 8GB RAM.",
+        "Specification": [
+          "Intel Core i5 processor",
+          "8GB RAM",
+          "128GB SSD",
+          "12.4-inch PixelSense touchscreen",
+          "Windows 10 Home"
+        ],
+        "availability": true,
+        "rating": 4.3
+      }
+ ]
