@@ -1,15 +1,20 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Gadgets from '../Gadgets/Gadgets';
 import image from '../../assets/banner.jpg'
 
 const Home = () => {
+    useEffect(()=>{
+        document.title="Gadgets heaven || Home"
+    })
+
+
     return (
         <div>
                   
                  <div>
 
                  <div class=" bg-[#9538e2] h-[500px] text-white mx-auto text-center  py-10 gap-y-8">
-                 <h1 class="text-4xl md:text-5xl mx-auto w-[900px] mb-7 font-bold mb-4">Upgrade Your Tech
+                 <h1 class="text-4xl md:text-5xl mx-auto w-[900px]  font-bold mb-4">Upgrade Your Tech
                             Accessorize with Gadget Heaven
                             Accessories</h1>
                         <p class="text-lg w-[800px] mx-auto  mb-6">Explore the latest gadgets that will take your
@@ -39,7 +44,7 @@ const Home = () => {
 
 
             <div>
-            <div className='w-12/12 mt-72 mb-60'>
+            <div className='w-12/12 mt-72 mb-32'>
             <Gadgets></Gadgets>
              </div>
             </div>
