@@ -5,7 +5,7 @@ const Statistics = () => {
     const [products, setProducts] = useState([]);
 
     useEffect(() => {
-        fetch('/public/Gadgets.json')
+        fetch('../../../public/Gadgets.json')
             .then((response) => response.json())
             .then((data) => setProducts(data));
     }, []);
